@@ -1,0 +1,72 @@
+[
+  {
+    "role": "user",
+    "content": "What is the capacity of the solar power system?",
+    "meta": {
+      "ts": "2025-12-20T10:38:53.951361Z"
+    }
+  },
+  {
+    "role": "assistant",
+    "content": "The capacity of our solar power system at Ilora Retreats is 100 KWH.",
+    "meta": {
+      "ts": "2025-12-20T10:38:53.951361Z"
+    }
+  },
+  {
+    "role": "user",
+    "content": "What are the primary construction materials?",
+    "meta": {
+      "ts": "2025-12-20T10:39:10.899311Z"
+    }
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry, I don’t have that information at the moment.",
+    "meta": {
+      "ts": "2025-12-20T10:39:10.899311Z"
+    }
+  },
+  {
+    "role": "user",
+    "content": "How is liquid waste managed?",
+    "meta": {
+      "ts": "2025-12-20T10:39:49.663203Z"
+    }
+  },
+  {
+    "role": "assistant",
+    "content": "Rahul, our liquid waste is managed via an in-house RO plant.",
+    "meta": {
+      "ts": "2025-12-20T10:39:49.663203Z"
+    }
+  },
+  {
+    "role": "user",
+    "content": "Is smoking allowed in the dining tent?",
+    "meta": {
+      "ts": "2025-12-20T10:40:14.945128Z"
+    }
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry, I don’t have that information at the moment.",
+    "meta": {
+      "ts": "2025-12-20T10:40:14.945128Z"
+    }
+  },
+  {
+    "role": "user",
+    "content": "What is the WiFi password?",
+    "meta": {
+      "ts": "2025-12-20T10:40:48.153352Z"
+    }
+  },
+  {
+    "role": "assistant",
+    "content": "I'm currently handling a lot of requests and have temporarily reached my response limit. Please try again in a minute, or let me know if you'd like me to raise this as a service request.",
+    "meta": {
+      "ts": "2025-12-20T10:40:48.153352Z"
+    }
+  }
+]
